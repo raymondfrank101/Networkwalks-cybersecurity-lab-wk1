@@ -176,5 +176,5 @@ This lab is for **learning only**. I only test systems I own or have explicit pe
 ## 👤 Author
 
 **Raymond Frank-Nnokwe**
-Cybersecurity student
+Cybersecurity intern. Batch B084
 🔗 LinkedIn: [https://www.linkedin.com/in/raymond-frank-nnokwe-792669383/]
