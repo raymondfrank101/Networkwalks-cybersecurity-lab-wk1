@@ -100,7 +100,7 @@ Ran `ping -c 4 8.8.8.8` and `ping -c 4 google.com` to confirm internet access an
 
 
 ### Step 7: Take a Snapshot
-Took a snapshot named `[snapshot name]` as a clean baseline to restore if anything breaks.
+Took a snapshot named `[My fresh kali linux]` as a clean baseline to restore if anything breaks.
 
 <img width="960" height="540" alt="capture 6" src="https://github.com/user-attachments/assets/3824ea91-9331-4fb2-9543-e414d99ab896" />
 
